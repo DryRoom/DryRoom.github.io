@@ -7,7 +7,9 @@ tags:
   - welcome
   - jekyll
 ---
-![Centered Photo]({{ '/assets/images/Ultrasonic_Radar_Auto-Lock_16x9.png' | relative_url }}){: .align-center}
+<div style="text-align: center;">
+  <img src="{{ '/assets/images/Ultrasonic_Radar_Auto-Lock_16x9.png' | relative_url }}" alt="Centered Photo" style="max-width: 50%; height: auto;">
+</div>
 
 Never have I ever expected a project which we (me and a friend) made just to score some marks, get our professor's attention that they selected it to be displayed as an exhibit. Well, this isn't an exhibition where little kids come to see how 'cool' we made it and to be honest its the exact opposite. Here industrial intellectuals arrive to do an annual seminar with our college directors and at the same time if a project gets their attention, they'll propose a deal to continue the project's research.
 
