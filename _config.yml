@@ -1,6 +1,22 @@
-url: "https://dryroom.github.io"
-baseurl: "/"
-remote_theme: poole/hyde
-plugins:
-  - jekyll-remote-theme
-permalink: /:title/
+# Site Settings
+title: "My Blog Title"
+name: "Your Name"
+description: "A short description of what you write about."
+url: "https://username.github.io" # Replace with your username
+baseurl: "" 
+
+# Theme Settings
+remote_theme: mmistakes/minimal-mistakes@4.24.0
+minimal_mistakes_skin: "default" # Options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+
+# Author Info
+author:
+  name   : "Your Name"
+  bio    : "Writer, developer, creator."
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com"
+
+# Site Navigation
+locale: "en-US"
