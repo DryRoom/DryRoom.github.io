@@ -1,4 +1,6 @@
-remote_theme: bencentra/centrarium
+url: "https://github.io"
+baseurl: ""
+remote_theme: poole/hyde
 plugins:
   - jekyll-remote-theme
 permalink: /:title/
