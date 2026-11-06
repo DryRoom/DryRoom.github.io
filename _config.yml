@@ -1,7 +1,7 @@
 # Site Settings
-title: "My Blog Title"
-name: "Your Name"
-description: "A short description of what you write about."
+title: "2000s I Missed"
+name: "2000s I Misssed"
+description: "A Blog To Live The 2000s Era"
 url: "https://DryRoom.github.io" # Replace with your username
 baseurl: "" 
 
@@ -11,8 +11,8 @@ minimal_mistakes_skin: "default" # Options: air, aqua, contrast, dark, dirt, neo
 
 # Author Info
 author:
-  name   : "Your Name"
-  bio    : "Writer, developer, creator."
+  name   : "DryRoom"
+  bio    : "Developer, Tech Enthusiast, Hacker"
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
