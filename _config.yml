@@ -7,7 +7,7 @@ baseurl: ""
 
 # Theme Settings
 remote_theme: mmistakes/minimal-mistakes@4.24.0
-minimal_mistakes_skin: "default" # Options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
+minimal_mistakes_skin: "mint" # Options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
 
 # Author Info
 author:
@@ -16,7 +16,7 @@ author:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com"
+      url: "https://github.com/DryRoom"
 
 # Site Navigation
 locale: "en-US"
