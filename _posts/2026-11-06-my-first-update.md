@@ -1,9 +1,20 @@
 ---
-layout: post
-title: "My First Update"
+title: "Hello World: My First Blog Post"
 date: 2026-11-06
+categories:
+  - blog
+tags:
+  - welcome
+  - jekyll
 ---
 
-This is my very first blog post text! I can type absolutely anything I want right here. 
+Welcome to my new blog powered by **GitHub Pages** and the **Minimal Mistakes** theme! 
 
-No confusing folders, no complicated layout structures, just pure typing. 
+Here is how you can write text, add lists, or insert code:
+* Fast and free hosting
+* Written in Markdown
+* Clean layout
+
+```python
+print("Hello, GitHub Pages!")
+```
