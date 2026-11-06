@@ -1,5 +1,5 @@
-url: "https://dryroom.github.io"
-baseurl: ""
+url: "https://github.io"
+baseurl: "/"
 remote_theme: poole/hyde
 plugins:
   - jekyll-remote-theme
