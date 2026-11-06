@@ -1,6 +1,6 @@
 # Site Settings
 title: "2000s I Missed"
-name: "2000s I Misssed"
+name: "2000s I Missed"
 description: "A Blog To Live The 2000s Era"
 url: "https://DryRoom.github.io" # Replace with your username
 baseurl: "" 
@@ -14,7 +14,7 @@ author:
   name   : "DryRoom"
   bio    : "Developer, Tech Enthusiast, Hacker"
   links:
-    - label: "GitHub"
+    - label: "GitHub/DryRoom"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/DryRoom"
 
